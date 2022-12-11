@@ -1,5 +1,7 @@
 # Weather App
 An Android App where you can check weather from city you want  and see forecast for next tree days, it was built with mvvm, dagger-hilt, livedata,coroutines, jetpack libraries...
+
+<a href="https://www.buymeacoffee.com/bersyteinf4" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
  
 
 # Features
